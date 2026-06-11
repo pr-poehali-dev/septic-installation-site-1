@@ -19,8 +19,8 @@ export default {
 			}
 		},
 		fontFamily: {
-				display: ["Unbounded", "sans-serif"],
-				body: ["Rubik", "sans-serif"],
+				display: ["Playfair Display", "serif"],
+				body: ["Inter", "sans-serif"],
 			},
 		extend: {
 			colors: {
