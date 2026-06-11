@@ -19,8 +19,8 @@ export default {
 			}
 		},
 		fontFamily: {
-				display: ["Montserrat", "sans-serif"],
-				body: ["Golos Text", "sans-serif"],
+				display: ["Unbounded", "sans-serif"],
+				body: ["Rubik", "sans-serif"],
 			},
 		extend: {
 			colors: {
