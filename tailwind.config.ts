@@ -19,8 +19,8 @@ export default {
 			}
 		},
 		fontFamily: {
-				display: ["Oswald", "sans-serif"],
-				body: ["IBM Plex Sans", "sans-serif"],
+				display: ["Montserrat", "sans-serif"],
+				body: ["Golos Text", "sans-serif"],
 			},
 		extend: {
 			colors: {
