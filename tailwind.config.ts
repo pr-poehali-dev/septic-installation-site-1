@@ -18,6 +18,10 @@ export default {
 				'2xl': '1400px'
 			}
 		},
+		fontFamily: {
+				display: ["Oswald", "sans-serif"],
+				body: ["IBM Plex Sans", "sans-serif"],
+			},
 		extend: {
 			colors: {
 				border: 'hsl(var(--border))',
